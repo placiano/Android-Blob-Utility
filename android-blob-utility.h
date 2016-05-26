@@ -55,7 +55,14 @@ const char *blob_directories[] = {
     "/lib/hw/",
     "/lib64/",
     "/lib/",
+    "/lib/soundfx/",
     "/bin/",
+    "/etc/wifi/",
+    "/etc/",
+    "/etc/firmware/",
+    "/lib/drm/",
+    "/cameradata/",
+    "/vendor/firmware/",
     NULL
 };
 
